@@ -1,7 +1,7 @@
 # Priscilla's Resume Template  
 <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 
-This repo houses the LaTex template used to generate my resume.  
+This repo houses the LaTex template used to generate my [resume](https://drive.google.com/file/d/1T0dP4GldofqNfuC8WwjYbJMEKHw_aUbG/view).  
 The template I used is forked from [here](https://github.com/darwiin/yaac-another-awesome-cv). 
 
 
