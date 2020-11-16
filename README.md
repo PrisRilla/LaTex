@@ -4,6 +4,7 @@
 This repo houses the LaTex template used to generate my [resume](https://drive.google.com/file/d/1T0dP4GldofqNfuC8WwjYbJMEKHw_aUbG/view).  
 The template I used is forked from [here](https://github.com/darwiin/yaac-another-awesome-cv). 
 
+Please check out [TeXstudio](https://www.texstudio.org/) to download integrated writing environment for creating LaTeX documents.  
 
 ## Relevant Files Used
 
